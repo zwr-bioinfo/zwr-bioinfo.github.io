@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zwr-bioinfo.github.io/</id>
     <title>zwr-bioinfo</title>
-    <updated>2021-04-14T10:26:11.697Z</updated>
+    <updated>2021-04-14T10:27:11.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zwr-bioinfo.github.io/"/>
     <link rel="self" href="https://zwr-bioinfo.github.io/atom.xml"/>
